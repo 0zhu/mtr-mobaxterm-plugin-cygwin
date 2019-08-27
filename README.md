@@ -27,3 +27,9 @@ wget -qO mtr https://github.com/zhubanRuban/mtr-mobaxterm-plugin/raw/master/mtr-
 >```
 >uname -m
 >```
+
+### Uninstallation
+
+```
+wget -qO mtr https://github.com/zhubanRuban/mtr-mobaxterm-plugin/raw/master/mtr-0.92.mxt3 && unzip -Z1 mtr | xargs -I{} rm -vf /{} && rm -f mtr
+```
