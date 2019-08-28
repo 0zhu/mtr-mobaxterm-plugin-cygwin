@@ -19,7 +19,7 @@ wget -qO mtr https://github.com/zhubanRuban/mtr-mobaxterm-plugin/raw/master/mtr-
 ### Cygwin x64
 
 ```
-wget -qO mtr https://github.com/zhubanRuban/mtr-mobaxterm-plugin/raw/master/mtr-0.93-x64.mtx3 && unzip mtr -d / && rm -f mtr
+wget -qO mtr https://github.com/zhubanRuban/mtr-mobaxterm-plugin/raw/master/mtr-0.93-x64.mxt3 && unzip mtr -d / && rm -f mtr
 ```
 
 ### [How to detect Cygwin installation bitness](https://stackoverflow.com/questions/22687184/how-do-i-tell-whether-my-cygwin-installation-is-32-or-64-bit)
